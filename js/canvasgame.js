@@ -27,7 +27,7 @@ function loadImages() {
     // show the hero image
     narwhalReady = true;
   };
-  narwhalImage.src = "img/narwhal.jpg";
+  narwhalImage.src = "img/narwhal.png";
 
   fishImage = new Image();
   fishImage.onload = function () {
